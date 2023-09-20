@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"cities": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Tokyo",
+			"Country": "Japan",
+			"Duration": "7 months",
+			"Month": "January",
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Beijing",
+			"Country": "China",
+			"Duration": "2 weeks",
+			"Month": "June",
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Berkeley",
+			"Country": "USA",
+			"Duration": "5 months",
+			"Month": "August",
 		}
 	]
 }
