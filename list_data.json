@@ -1,22 +1,22 @@
 {
 	"cities": [
 		{
-			"Name": "Tokyo",
+			"Month": "January",
+			"City": "Tokyo",
 			"Country": "Japan",
-			"Duration": "7 months",
-			"Month": "January"
+			"Duration": "7 months"
 		},
 		{
-			"Name": "Beijing",
+			"Month": "June",
+			"City": "Beijing",
 			"Country": "China",
-			"Duration": "2 weeks",
-			"Month": "June"
+			"Duration": "2 weeks"
 		},
 		{
-			"Name": "Berkeley",
+			"Month": "August",
+			"City": "Berkeley",
 			"Country": "USA",
-			"Duration": "5 months",
-			"Month": "August"
+			"Duration": "5 months"
 		}
 	]
 }
