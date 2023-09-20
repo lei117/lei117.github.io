@@ -4,19 +4,19 @@
 			"Name": "Tokyo",
 			"Country": "Japan",
 			"Duration": "7 months",
-			"Month": "January",
+			"Month": "January"
 		},
 		{
 			"Name": "Beijing",
 			"Country": "China",
 			"Duration": "2 weeks",
-			"Month": "June",
+			"Month": "June"
 		},
 		{
 			"Name": "Berkeley",
 			"Country": "USA",
 			"Duration": "5 months",
-			"Month": "August",
+			"Month": "August"
 		}
 	]
 }
